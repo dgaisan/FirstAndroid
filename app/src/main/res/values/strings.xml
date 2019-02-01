@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="red_text">Red Text</string>
+    <string name="green_text">Green Text</string>
+    <string name="blue_text">Blue Text</string>
+    <string name="orange_text">Orange Text</string>
+</resources>
